@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: ''
-          company: ''
+        - title: bla bla
+          company: bla bla
           company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: ''
-          date_end: ''
+          company_logo: bla bla
+          location: bla
+          date_start: 'bla'
+          date_end: 'bla'
           description: |2-
               Responsibilities include:
 
-              * 
-              * 
-              * 
-        - title: ''
-          company: ''
+              * bla
+              * bla
+              * bla
+        - title: bla bla
+          company: bla bla
           company_url: ''
-          company_logo: ''
+          company_logo: bla bla
           location: ''
-          date_start: ''
-          date_end: ''
-          description: .
+          date_start: 'bla'
+          date_end: 'bla'
+          description: bla bla.
     design:
       columns: '2'
   - block: accomplishments
